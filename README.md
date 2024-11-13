@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+sou estudante do Alura!
+estou usando esse espaço para organização dos meus projetos!
 <!--
 **MariaSofiaOgliari/MariaSofiaOgliari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
